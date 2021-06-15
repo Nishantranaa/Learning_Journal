@@ -13,7 +13,7 @@ I learnt that AWS allows us to create a custom EC2 (Elastic compute 2) instance.
 
 This server uses an elastic model and we only pay what we use. 
 
-I used to learn AWS is watching a few youtube videos were: 
+I learnt to use AWS by watching a few youtube videos were: 
 Amazon free tier account.
 YouTube videos:
 How to Host Your Website on AWS EC2 Instance - https://www.youtube.com/watch?v=dhRwKPrum44&t=4s and Joomla! Cloud hosting with Amazon EC2 Video Tutorial Part 1 - https://www.youtube.com/watch?v=Uo-JGmutlr0
