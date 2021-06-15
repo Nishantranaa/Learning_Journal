@@ -1,2 +1,0 @@
-# Learning_Journal
-Learning_Journal_Weekly_Insights
