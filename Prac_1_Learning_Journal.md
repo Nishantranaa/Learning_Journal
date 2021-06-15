@@ -20,7 +20,7 @@ How to Host Your Website on AWS EC2 Instance - https://www.youtube.com/watch?v=d
 
 To host a website we need to use the Apache HTTP Server, colloquially called Apache, is a free and open-source cross-platform web server software which is installed on the Amazon Linux instance. Next, I learnt to create a storage server called S3 bucket. This is were my website files would be uploaded.  
 
-Finally, I had to create an IAM (Identity Access Manangement) role and give full access to my S3 storage server, I had to do this since I as the user neede to access this remotely using SSH. Using putty application, I managed to telnet via SSH into my Amazon Linux Instance where I had to change directory to var/www/html/ and this will syncronize all our files from my S3 bucket to the var/www/html directory.
+Finally, I had to create an IAM (Identity Access Manangement) role and give full access to my S3 storage server, I had to do this since I as the user needed to access this remotely using SSH and needed full access. Using putty application, I managed to telnet via SSH into my Amazon Linux Instance where I had to change directory to var/www/html/ and this will syncronize all our files from my S3 bucket to the var/www/html directory.
 
 Challenges - I was not able to successful run this command and did more research and was had eventually managed to find a different method on installing Linux using Amazon Lightsail. This installed Joomla and helped me create a public IP address which I can use to access my site. 
 
