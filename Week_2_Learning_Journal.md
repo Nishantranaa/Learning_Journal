@@ -11,7 +11,6 @@ Joomla is a content management system and great for blogging. The user interface
 challenge to create menus and prefer more intuitive WordPress. Another challenge was figuring out how to link a menu button to
 a page. 
 
-And finally, during this week I brain drained on ideas for a startup. I have come up with a problem statement on waste management and how to be can better
-guide home user on smarter ways they can dispose of items. My startup will be solving the challenge of disposing of the wrong items in the wrong bins!
+The concept which I have come up for my start-up would be a software which can processing physical documents using technology such as NLP and OCR and help organisations process applications at a quicker pace.
 
 
