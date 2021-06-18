@@ -1,6 +1,7 @@
 # Learning_Journal
-Learning_Journal_Weekly_Insights
 Week_1 
+Learning_Journal_Weekly_Insights
+
 
 Learning Activites
 - Using HTML and CSS effectively to update content to my static website.
