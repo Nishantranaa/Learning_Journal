@@ -11,6 +11,6 @@ Joomla is a content management system and great for blogging. The user interface
 challenge to create menus and prefer more intuitive WordPress. Another challenge was figuring out how to link a menu button to
 a page. 
 
-The concept which I have come up for my start-up would be a software which can processing physical documents using technology such as NLP and OCR and help organisations process applications at a quicker pace.
+The concept which I have come up for my start-up would be a software which can process physical documents using technology such as NLP and OCR and help organisations process applications at a quicker pace.
 
 
