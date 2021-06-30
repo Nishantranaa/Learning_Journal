@@ -1,0 +1,24 @@
+Week 4
+
+Learning Journal
+
+Learning to deploy a wordpress site - 1 hour
+
+Video reference - https://www.youtube.com/watch?v=8AZ8GqW5iak
+https://www.youtube.com/watch?v=VnjeR-bsRM4
+
+This week I watched a video from youtube and learnt how to deploy a wordpress website. 
+I used AWS and setup up an instance which helped me setup Joomla and Wordpress in one click.
+This was the easy way then deploying a local environment. 
+
+In AWS is used Lightsail to install both CMS. Below are in the links below.
+
+https://drive.google.com/file/d/1WueEZYdCnVRC_ZYsK80zeoaJBfNt6HZq/view?usp=sharing
+https://drive.google.com/file/d/1huI84KOeQXVlANL1JHhSTLuQkdVn8Ucg/view?usp=sharing
+
+
+AWS has assigned me a public IP address: 52.63.193.243, this will be used to access my site.
+
+Learning - Logging into the wordpress site I have to use the wp-login.php after my IP address. 
+To use the pre installed plugins and installing one. I used a free theme that was attractive and easy to customize. 
+
