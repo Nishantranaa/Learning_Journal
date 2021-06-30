@@ -1,1 +1,21 @@
+Week 3 
 
+Learning Journal
+
+Time - 30mins to install WordPress using MAMP
+
+Reference videos - 1. How to install WordPress using MAMP https://www.youtube.com/watch?v=10rsWKEDFvw
+                   2. Installing WordPress https://www.youtube.com/watch?v=B4fujTp7k7Q
+
+During week three I furthered my understanding of installing WordPress by creating a local environment. I had done this before and brushed up on my understanding of WordPress and how it functions. The first step I took was to install MAMP, which is a freeware that combines MYSQL server, PHPmyadmin interface to manage MYSQL and an Apache webserver. Once this was installed I tested if the mamp localhost
+URL worked. If a webpage loads using localhost this indicates that the local development environment is working correctly. 
+
+The challenge I face was connecting my WordPress to the database. I followed the steps provided, which required me to create a database first.
+Using the PHPmyadmin interface I created a database name and saved it. Next, I had to edit the wp-config, PHP file in the WordPress working folder
+to update the database name. The default username and password for my MYSQL was root and created by the developers of MAMP.
+
+I had to watch a few tutorials that helped me solve the problem which was on the port number. There was a similar port that was being used by another application. I had to investigate which port was free for the MYSQL and managed to find port 3008. 
+Once WordPress was up and running I started to develop my websites by first creating the pages followed by a menu. The content I used was from last weeks Joomla practical. I was used to using the classical editor in WordPress and disabled the new Gutenberg editor which
+is not that intuitive and easy to use. 
+
+I enjoyed working with WordPress CMS than Joomla and for my first assignment, I will continue using WordPress. 
