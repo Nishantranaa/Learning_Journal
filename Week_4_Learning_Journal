@@ -21,4 +21,16 @@ AWS has assigned me a public IP address: 52.63.193.243, this will be used to acc
 
 Learning - Logging into the wordpress site I have to use the wp-login.php after my IP address. 
 To use the pre installed plugins and installing one. I used a free theme that was attractive and easy to customize. 
+During the week 5 class I helped a class mate on trying to solve a glitch on her Joomla site. The problem was that the 
+menu was not appearing on the website but was appearing on the frontend whilst editing the site. 
+
+To solve this better we used teamviewer and I was able to try a few troubleshooting methods. The first was disabling active 
+plugins one by one and reloading the page to identify if it was a plugin issue. This was helpful in identifing that the plugin called 
+nice page was conflicting with the default Joomla theme. There was two solutions; first would be to update the theme. Which may resolve any 
+bugs in the current version. The use another option was to stick with the default features. 
+
+A bit of read online via the nicepage forum revealed that many user are facing the same issue. The link is https://nicepage.
+com/questions/107018/menu-is-not-displayed
+
+The last resort was to export the current updates and reinstall the theme.   
 
