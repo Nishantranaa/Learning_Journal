@@ -1,0 +1,18 @@
+During week 5 we covered creating child themes. 
+
+Video refereces - 
+
+
+
+Online articles - reddit.com/r/aws/comments/apxvdd/how_to_access_folder_containing_wordpress_on_your/
+
+This article is on reddit which answers questions. - How to access folder containing Wordpress on your Lightsail instance.
+I was not sure which folder the wordpress root folder was located in aws. This helped me understand the file to locate the wp-content 
+folder: /opt/bitnami/apps/wordpress/htdocs/wp-content/themes
+
+The link below guided me to connect to my wordpress root directory. I needed to do this to upload my child theme with css file. 
+
+https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-connecting-to-linux-unix-instance-using-sftp#connecting-
+to-linux-unix-instance-using-sftp-prerequisites
+
+(https://developer.wordpress.org/files/2014/10/Screenshot-2019-01-23-00.20.04.png)
